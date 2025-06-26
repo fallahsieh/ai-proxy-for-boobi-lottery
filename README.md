@@ -1,2 +1,2 @@
-# ai-proxy-for-boobi-lottery
-八字抽彩券小遊戲網站
+# OpenAI Proxy for Boobi Lottery
+此專案為 Lovable 網站專用的 AI Proxy，透過 Vercel 避免前端暴露 API 金鑰。
